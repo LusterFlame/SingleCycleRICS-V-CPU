@@ -4,29 +4,29 @@ K3
 cModel Technology
 dC:\modeltech64_10.1c\examples
 vAdder
-V?g:d`FbcV]2;_@a==zUzc1
-r1
-31
 IMAo<3nh;:Bbk=@oCl3:VX2
+V?g:d`FbcV]2;_@a==zUzc1
 Z0 dD:\GitHub\SingleCycleRICS-V-CPU\Another Version
-w1558898101
+w1558930290
 8D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Adder.v
 FD:/GitHub/SingleCycleRICS-V-CPU/Another Version/Adder.v
 L0 1
 Z1 OL;L;10.1c;51
+r1
+31
 Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 n@adder
-!s85 0
 !s100 Ofh<4D;gn[<VX_jJ6E8M31
-!s108 1558898105.707000
+!s108 1558940257.988000
 !s107 D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Adder.v|
 !s90 -reportprogress|300|-work|work|-vopt|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Adder.v|
 !i10b 1
+!s85 0
 vBrancher
 IA8gKj;2SAce;bW]HUc5mL0
 VU<KNo:fm3;[e3f2?Aa1hj0
 Z3 dD:\GitHub\SingleCycleRICS-V-CPU\Another Version
-w1558896706
+w1558930292
 8D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Brancher.v
 FD:/GitHub/SingleCycleRICS-V-CPU/Another Version/Brancher.v
 L0 1
@@ -37,29 +37,29 @@ R2
 n@brancher
 !s100 JH=:4VlhP5oWQR;aK=zdb0
 !s90 -reportprogress|300|-work|work|-vopt|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Brancher.v|
+!s108 1558940258.095000
+!s107 D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Brancher.v|
 !i10b 1
 !s85 0
-!s108 1558898105.827000
-!s107 D:/GitHub/SingleCycleRICS-V-CPU/Another Version/Brancher.v|
 vCPU
 Vcdi;=jBiEcz[39cVT0^Hj1
 r1
 31
-I_;z[m8cU51SN5gfngPnfU0
+IG7AP@Sl>MOX=BHY`HRH<P3
 R3
-w1558897937
+w1558943434
 FCPU.v
 Z4 8D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v
 Z5 FD:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v
-L0 5
+L0 3
 R1
-Z6 !s108 1558898105.050000
-Z7 !s107 SRAM.v|Adder.v|SetImm.v|CPU.v|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v|
+Z6 !s108 1558943440.722000
+Z7 !s107 SRAM.v|SetImm.v|CPU.v|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v|
 Z8 !s90 -reportprogress|300|-work|work|-vopt|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v|
 R2
 n@c@p@u
 !s85 0
-!s100 0K0I3BRce63_:P00FmT^z3
+!s100 h3N88?1m3OV]G[QkBh^7]3
 !i10b 1
 vSetImm
 V<4P?@e4;<7jSkWz`P_27i2
@@ -67,7 +67,7 @@ r1
 31
 IPlz@cVcHSh1ng9i`HD]_72
 R3
-w1558868827
+w1558930291
 FSetImm.v
 R4
 R5
@@ -134,6 +134,6 @@ R2
 !s85 0
 !s100 <YdNPL]IlYW994g>mCLz03
 !s90 -reportprogress|300|-work|work|-vopt|D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top_tb.v|
-!s108 1558898105.545000
-!s107 D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top_tb.v|
 !i10b 1
+!s108 1558943441.159000
+!s107 D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top_tb.v|
