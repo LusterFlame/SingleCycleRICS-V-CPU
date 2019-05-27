@@ -1,0 +1,30 @@
+{D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v} {2 {vlog -work work -vopt {D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SetImm
+** Warning: CPU.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module Adder
+** Warning: CPU.v(3): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+-- Compiling module CPU
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {D:/GitHub/SingleCycleRICS-V-CPU/Another Version/SRAM.v} {1 {vlog -work work -vopt {D:/GitHub/SingleCycleRICS-V-CPU/Another Version/SRAM.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} {D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top_tb.v} {1 {vlog -work work -vopt {D:/GitHub/SingleCycleRICS-V-CPU/Another Version/top_tb.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}}
